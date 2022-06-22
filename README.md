@@ -1,1 +1,1 @@
-# project
+# Изучаю DRF
